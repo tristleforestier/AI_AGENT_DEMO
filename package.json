@@ -1,0 +1,10 @@
+{
+  "name": "ai-agent-demo",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently --names \"frontend,backend\" --prefix-colors \"cyan,green\" \"npm run dev --prefix frontend\" \"dotnet run --project backend/src/AIAgentDemo.WebApi\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+}
