@@ -1,0 +1,6 @@
+@AIAgentDemo.WebApi_HostAddress = http://localhost:5077
+
+GET {{AIAgentDemo.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

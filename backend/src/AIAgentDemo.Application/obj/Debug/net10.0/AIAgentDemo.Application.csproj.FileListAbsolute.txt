@@ -1,0 +1,16 @@
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/bin/Debug/net10.0/AIAgentDemo.Application.deps.json
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/bin/Debug/net10.0/AIAgentDemo.Application.dll
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/bin/Debug/net10.0/AIAgentDemo.Application.pdb
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/bin/Debug/net10.0/AIAgentDemo.Domain.dll
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/bin/Debug/net10.0/AIAgentDemo.Domain.pdb
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/AIAgentDemo.Application.csproj.AssemblyReference.cache
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/AIAgentDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/AIAgentDemo.Application.AssemblyInfoInputs.cache
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/AIAgentDemo.Application.AssemblyInfo.cs
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/AIAgentDemo.Application.csproj.CoreCompileInputs.cache
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/AIAgentDemo.Application.sourcelink.json
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/AIAgentD.1F711678.Up2Date
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/AIAgentDemo.Application.dll
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/refint/AIAgentDemo.Application.dll
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/AIAgentDemo.Application.pdb
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Application/obj/Debug/net10.0/ref/AIAgentDemo.Application.dll

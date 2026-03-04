@@ -1,0 +1,12 @@
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/bin/Debug/net10.0/AIAgentDemo.Domain.deps.json
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/bin/Debug/net10.0/AIAgentDemo.Domain.dll
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/bin/Debug/net10.0/AIAgentDemo.Domain.pdb
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/obj/Debug/net10.0/AIAgentDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/obj/Debug/net10.0/AIAgentDemo.Domain.AssemblyInfoInputs.cache
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/obj/Debug/net10.0/AIAgentDemo.Domain.AssemblyInfo.cs
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/obj/Debug/net10.0/AIAgentDemo.Domain.csproj.CoreCompileInputs.cache
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/obj/Debug/net10.0/AIAgentDemo.Domain.sourcelink.json
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/obj/Debug/net10.0/AIAgentDemo.Domain.dll
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/obj/Debug/net10.0/refint/AIAgentDemo.Domain.dll
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/obj/Debug/net10.0/AIAgentDemo.Domain.pdb
+/Users/tristanleforestier/Documents/Dev/Demos/AI_AGENT_DEMO/backend/src/AIAgentDemo.Domain/obj/Debug/net10.0/ref/AIAgentDemo.Domain.dll

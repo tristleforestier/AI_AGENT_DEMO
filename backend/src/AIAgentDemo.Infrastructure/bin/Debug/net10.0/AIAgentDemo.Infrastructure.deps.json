@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AIAgentDemo.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AIAgentDemo.Application": "1.0.0",
+          "AIAgentDemo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AIAgentDemo.Infrastructure.dll": {}
+        }
+      },
+      "AIAgentDemo.Application/1.0.0": {
+        "dependencies": {
+          "AIAgentDemo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AIAgentDemo.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AIAgentDemo.Domain/1.0.0": {
+        "runtime": {
+          "AIAgentDemo.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIAgentDemo.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AIAgentDemo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AIAgentDemo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
